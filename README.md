@@ -75,5 +75,7 @@ Person.all(:mame.like => 'S%', :id => [ 1, 2, 3, 4, 5])
 Person.all(:name.not => [ 'bob', 'tky', 'tky' ])
 
 ```
-
+---
+```
+```
 
