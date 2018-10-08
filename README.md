@@ -1,6 +1,7 @@
 ### DataMapper
 ---
 
-```
+```ruby
+
 ```
 
