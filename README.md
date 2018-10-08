@@ -76,6 +76,7 @@ Person.all(:name.not => [ 'bob', 'tky', 'tky' ])
 
 ```
 ---
+
 ```
 ```
 
